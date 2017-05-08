@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "ES6",
+    "module": "commonjs",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true
+  },
+  "files": [
+    "src/main/typescript/defs/backbone/backbone.d.ts",
+    "src/main/typescript/defs/jquery/jquery.d.ts",
+    "src/main/typescript/defs/jquery.cookie/jquery.cookie.d.ts",
+    "src/main/typescript/defs/react/react.d.ts",
+    "src/main/typescript/defs/react/react-dom.d.ts",
+    "src/main/typescript/defs/underscore/underscore.d.ts",
+    "src/main/typescript/defs/classnames/classnames.d.ts"
+  ]
+}

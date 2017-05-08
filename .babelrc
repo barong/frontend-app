@@ -1,0 +1,14 @@
+{
+  "presets": [
+      ["env",
+      {
+        "targets": {
+          "browsers": ["ie >= 8"]
+        },
+        "debug": true,
+        "useBuiltIns": true,
+        "loose": true,
+        "modules": "commonjs"
+      }]
+  ]
+}

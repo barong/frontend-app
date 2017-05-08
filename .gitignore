@@ -1,0 +1,11 @@
+/.idea
+node/
+node_modules/
+/.settings
+/.classpath
+/.project
+*.iml
+.DS_Store
+*.ipr
+*.iws
+public/assets/
