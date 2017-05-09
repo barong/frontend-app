@@ -2,3 +2,4 @@ node_modules/* linguist-vendored
 config/* linguist-vendored
 grunt/* linguist-vendored
 src/main/js/vendor/* linguist-vendored
+*.tsx linguist-language=TypeScript
